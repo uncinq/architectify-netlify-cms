@@ -12,6 +12,7 @@
 
 
 ## Features
+
 - rubrics `create false`
 - pages
 - projects
@@ -34,24 +35,28 @@
 
 ## Screenshot
 
-
 ## Depend repository
-* Hugolify Netlify CMS : [Hugolify template](https://github.com/hugolify/hugolify-netlify-cms)
+
+* Hugolify Netlify CMS : [Hugolify template](https://github.com/uncinq/hugolify-netlify-cms)
 
 ## Live demo
+
 - Front: https://demo.architectify.fr
 
 ## Install
 
 Edit `config/_default/module.yaml` to install the `architectify-netlify-cms` module with `hugolify-netlify-cms`:
+
 ```yml
 imports:
-  - path: github.com/hugolify/architectify-netlify-cms
+  - path: github.com/uncinq/architectify-netlify-cms
   - path: github.com/hugolify/hugolify-netlify-cms
 ```
 
 ## Documentations
-https://github.com/hugolify/hugolify-template/wiki
+
+https://www.hugolify.io
 
 ## License
+
 Hugolify is free for personal or commercial projects (MIT license)

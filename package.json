@@ -2,9 +2,9 @@
     "name": "architectify-netlify-cms",
     "version": "1.1.0",
     "homepage": "https://www.architectify.io",
-    "repository": "https://github.com/hugolify/architectify-netlify-cms",
+    "repository": "https://github.com/uncinq/architectify-netlify-cms",
     "bugs": {
-        "url": "https://github.com/hugolify/architectify-netlify-cms/issues"
+        "url": "https://github.com/uncinq/architectify-netlify-cms/issues"
     },
     "author": {
         "name": "Sébastien Moulène",

@@ -1,3 +1,3 @@
-module github.com/hugolify/architectify-netlify-cms
+module github.com/uncinq/architectify-netlify-cms
 
-go 1.19
+go 1.21
