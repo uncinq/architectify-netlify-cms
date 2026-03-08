@@ -10,5 +10,14 @@
         "name": "Sébastien Moulène",
         "url": "https://www.sebastienmoulene.com/"
     },
-    "license": "MIT"
+    "keywords": [
+        "architectify",
+        "hugolify",
+        "hugo",
+        "netlify-cms"
+    ],
+    "license": "MIT",
+    "devDependencies": {
+        "@hugolify/prettier-config": "^0.3.1"
+    }
 }
